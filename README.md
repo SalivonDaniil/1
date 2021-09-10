@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE HTML>
     <html>
         <head>
             <title>ЛБ1</title>
