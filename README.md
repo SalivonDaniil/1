@@ -1,9 +1,9 @@
 <!doctype html>
     <html>
         <head>
-            
+            <title>ЛБ1</title>
         </head>
         <body>
-            <p>Тестовая программа</p>
+            <p>тестовая программа</p>
         </body>
     </html>
